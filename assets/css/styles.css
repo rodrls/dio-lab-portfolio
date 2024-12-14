@@ -139,6 +139,7 @@ p {
 .header__brand .brand__logo {
   width: 3.25rem;
   height: 3.25rem;
+  background-color: #F0F0F0;
 }
 
 #toggleTheme {
